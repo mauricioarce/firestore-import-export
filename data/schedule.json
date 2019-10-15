@@ -1,0 +1,185 @@
+{
+  "schedule": {
+    "0l47Myged4De8vOj58C1": {
+      "deleteFlag": false,
+      "items": [
+        {
+          "actionEn": "Registration",
+          "descriptionEs": "Recepción de participantes y registro",
+          "actionEs": "Registro",
+          "descriptionEn": "Arrive at the venue and get checked in",
+          "hour": "6:30 pm"
+        },
+        {
+          "actionEn": "Dinner & Networking",
+          "descriptionEs": "Comer, compartir ideas, practicar los pitches, conocer a los demás participantes",
+          "actionEs": "Cena y Networking",
+          "descriptionEn": "Eat food, share ideas, practice pitches, get to know fellow participants",
+          "hour": "7:00 pm"
+        },
+        {
+          "descriptionEs": "Revisión de la agenda del fin de semana e presentación de speakers, mentores y lideres de la comunidad",
+          "actionEs": "Bienvenida y presentación de speakers",
+          "descriptionEn": "Review agenda for the weekend and introduce speakers, coaches, and community leaders",
+          "hour": "7:20 pm",
+          "actionEn": "Welcome & Speakers"
+        },
+        {
+          "descriptionEs": "Presentar las ideas",
+          "actionEs": "Inicio de Pitches",
+          "descriptionEn": "Optionally line up to give your pitch",
+          "hour": "7:30 pm",
+          "actionEn": "Pitches Start"
+        },
+        {
+          "actionEn": "Voting",
+          "descriptionEs": "Los asistentes votan por la mejor idea",
+          "actionEs": "Votación",
+          "descriptionEn": "Attendees vote for the top pitches",
+          "hour": "9:00 pm"
+        },
+        {
+          "actionEn": "Form Teams",
+          "descriptionEs": "Se forman los equipos y se discuten las ideas",
+          "actionEs": "Formar Equipos",
+          "descriptionEn": "Teams start forming and discussing ideas",
+          "hour": "9:15 pm"
+        },
+        {
+          "actionEn": "Begin Work",
+          "descriptionEs": "Comience a formalizar equipos y haga un inventario de habilidades. Sea honesto y directo sobre qué recursos y habilidades se necesitan para el fin de semana. Puede quedarse y trabajar tan tarde como el lugar lo permita",
+          "actionEs": "A trabajar!",
+          "descriptionEn": "Start to formalize teams and take an inventory of skills. Be honest, and direct about what resources and skills are needed for the weekend. You may stay and work as late as the venue will allow",
+          "hour": "10:00 pm"
+        }
+      ],
+      "date": { "_seconds": 1568952000, "_nanoseconds": 0 },
+      "id": "0l47Myged4De8vOj58C1"
+    },
+    "KdJExhXj5eq3knbGOQif": {
+      "items": [
+        {
+          "actionEs": "Desayuno",
+          "descriptionEn": "Arrive, simple breakfast & coffee",
+          "hour": "9:00 am",
+          "actionEn": "Breakfast",
+          "descriptionEs": "Llegada, desayuno y café."
+        },
+        {
+          "actionEs": "Comienza el trabajo",
+          "descriptionEn": "Teams formed and setting up workspace for the weekend",
+          "hour": "9:30 am",
+          "actionEn": "Begin Work",
+          "descriptionEs": "Los equipos formados preparan su espacio de trabajo para el fin de semana"
+        },
+        {
+          "actionEs": "Almuerzo",
+          "descriptionEn": "Lunch time",
+          "hour": "12:00 pm",
+          "actionEn": "Lunch",
+          "descriptionEs": "Hora de almorzar"
+        },
+        {
+          "actionEn": "Check-In",
+          "descriptionEs": "Después del almuerzo revisión del proyecto, informes de estado,  petición de ayuda.",
+          "actionEs": "Recepción",
+          "descriptionEn": "After-lunch check-in, status reports, call for help",
+          "hour": "1:00 pm"
+        },
+        {
+          "actionEn": "Coach Meetings",
+          "descriptionEs": "Los mentores ayudan a los equipos uno a uno. Ellos están aquí para ayudar!",
+          "actionEs": "Mentoría",
+          "descriptionEn": "Coaches help teams one-on-one. They are here to help!",
+          "hour": "2:00 pm"
+        },
+        {
+          "descriptionEs": "Hora de cenar",
+          "actionEs": "Cena",
+          "descriptionEn": "Dinner Time",
+          "hour": "6:30 pm",
+          "actionEn": "Dinner"
+        },
+        {
+          "actionEn": "Check-In",
+          "descriptionEs": "Después de la cena revisión de los proyectos, reporte de estado, pedido de ayuda",
+          "actionEs": "Revisión",
+          "descriptionEn": "After-dinner check-in, status reports, call for help",
+          "hour": "7:30 pm"
+        },
+        {
+          "actionEn": "Wrap-Up",
+          "descriptionEs": "Primer día terminado. Pueden quedarse y trabajar hasta tan tarde como el lugar lo permita.",
+          "actionEs": "Cierre",
+          "descriptionEn": "Finished for the day. You may stay and work as late as the venue will allow",
+          "hour": "10:00 pm"
+        }
+      ],
+      "date": { "_seconds": 1569038400, "_nanoseconds": 0 },
+      "id": "KdJExhXj5eq3knbGOQif",
+      "deleteFlag": false
+    },
+    "gaAiphtOADSZkmDvdU2T": {
+      "id": "gaAiphtOADSZkmDvdU2T",
+      "deleteFlag": false,
+      "items": [
+        {
+          "actionEn": "Breakfast",
+          "descriptionEs": "Recepción de participantes, desayuno y café",
+          "actionEs": "Desayuno",
+          "descriptionEn": "Arrive, simple breakfast & coffee",
+          "hour": "9:00 am"
+        },
+        {
+          "descriptionEs": "Llegan los mentores. Última oportunidad de hacer preguntas",
+          "actionEs": "Revisión",
+          "descriptionEn": "Coaches arrive. Final opportunity to ask questions",
+          "hour": "10:00 am",
+          "actionEn": "Check-In"
+        },
+        {
+          "actionEn": "Lunch",
+          "actionEs": "Almuerzo",
+          "descriptionEn": "Hora de almuerzo",
+          "hour": "12:00 pm"
+        },
+        {
+          "actionEn": "Coach Meetings",
+          "descriptionEs": "Llegan los mentores, HACER PREGUNTAS!",
+          "actionEs": "Ronda de mentoría",
+          "descriptionEn": "Coaches arrive… ASK QUESTIONS",
+          "hour": "12:30 pm"
+        },
+        {
+          "actionEn": "Presentation Prep & Tech Check",
+          "descriptionEs": "Las últimas horas de tiempo de trabajo deben centrarse en perfeccionar su presentación, también se realiza una verificación técnica para las presentaciones finales",
+          "actionEs": "Preparación de la presentación y verificación técnica",
+          "descriptionEn": "Final hours of work time should be focused on perfecting your presentation, tech-check for final presentations also takes place",
+          "hour": "2:30 pm"
+        },
+        {
+          "descriptionEs": "Cada equipo presente su proyecto y realiza el pitch final",
+          "actionEs": "Presentación final",
+          "descriptionEn": "Each team present its pitch",
+          "hour": "3:30 pm",
+          "actionEn": "Final Presentations"
+        },
+        {
+          "actionEn": "Judging & Awards",
+          "descriptionEs": "Los jueces deliberan y elige un ganador, se premia al equipo",
+          "actionEs": "Elección de ganadores y premiación",
+          "descriptionEn": "The judges deliberate and choose a winner, the team is rewarded",
+          "hour": "5:00 pm"
+        },
+        {
+          "actionEs": "Cierre",
+          "descriptionEn": "Finish the day, we learned new things and we are prepared to make our startup",
+          "hour": "5:30 pm",
+          "actionEn": "Wrap-Up",
+          "descriptionEs": "Termina el día, aprendimos cosas nuevas y estamos preparados para hacer nuestra startup"
+        }
+      ],
+      "date": { "_seconds": 1569124800, "_nanoseconds": 0 }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "metrics": {
+    "0tIOLpgHzroV8Svxrejb": {
+      "value": "80%",
+      "id": "0tIOLpgHzroV8Svxrejb",
+      "nameSp": " Mentores mujeres",
+      "deleteFlag": false,
+      "nameEn": " Women mentors"
+    },
+    "9HkrjbpHAyOLlIPj8Rb3": {
+      "value": "80%",
+      "id": "9HkrjbpHAyOLlIPj8Rb3",
+      "nameSp": "Participantes mujeres",
+      "deleteFlag": false,
+      "nameEn": "Female participants"
+    },
+    "PaQZM8931lgkRUoezHDH": {
+      "value": "80%",
+      "id": "PaQZM8931lgkRUoezHDH",
+      "nameSp": "Jueces mujeres",
+      "deleteFlag": false,
+      "nameEn": "Female judges"
+    },
+    "zp2STdY6RySbR9OSXnCr": {
+      "nameSp": "Equipo organizador mujeres",
+      "deleteFlag": false,
+      "nameEn": " Women organizing team",
+      "value": "80%",
+      "id": "zp2STdY6RySbR9OSXnCr"
+    }
+  }
+}

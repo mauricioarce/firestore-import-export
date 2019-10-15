@@ -1,0 +1,60 @@
+{
+  "events": {
+    "3s3H12EauQoW0DivWxuh": {
+      "place": "Auditorio principal de \"Los tiempos\"",
+      "date": { "_seconds": 1567551600, "_nanoseconds": 0 },
+      "id": "3s3H12EauQoW0DivWxuh",
+      "bannerUrl": "https://firebasestorage.googleapis.com/v0/b/swcbba-women.appspot.com/o/logo-sw-color.svg?alt=media&token=769d8e51-969d-4940-bded-b1bd27dfd700",
+      "description": "El Design Thinking es un concepto cuya metodología se ha venido implementando gradualmente en los últimos años en diferentes empresas como una forma de crear productos y servicios que tiendan a satisfacer en mejor manera las necesidades de los usuarios haciéndolos parte activa del proceso de creación. Consideramos esta herramienta como vital para el desarrollo de todo emprendimiento. El taller de Design Thinking se llevara a cabo el 3 de Septiembre en el Auditorio de \"Los Tiempos\".  horario: 19:00 a 21:00 horas. ",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScj_z2WrC321k6y8w_6ebGjjbSlN2xx4y-APXto-iSVwiX2xQ/viewform",
+      "deleteFlag": false,
+      "name": "Design thinking",
+      "logoUrl": "https://firebasestorage.googleapis.com/v0/b/swcbba-women.appspot.com/o/sww-illustration-white.svg?alt=media&token=e4fa2c10-852d-4894-848d-ad4e99e05d68"
+    },
+    "RQO9hQLbkpwDZC70bH1v": {
+      "link": "https://forms.gle/vHtewALkkvBUmJuw7",
+      "deleteFlag": false,
+      "name": "Finanzas & Pitch",
+      "logoUrl": "https://firebasestorage.googleapis.com/v0/b/swcbba-women.appspot.com/o/sww-illustration-white.svg?alt=media&token=e4fa2c10-852d-4894-848d-ad4e99e05d68",
+      "place": "Auditorio principal de \"Los tiempos\"",
+      "date": { "_seconds": 1568070000, "_nanoseconds": 0 },
+      "id": "RQO9hQLbkpwDZC70bH1v",
+      "bannerUrl": "https://firebasestorage.googleapis.com/v0/b/swcbba-women.appspot.com/o/logo-sw-color.svg?alt=media&token=769d8e51-969d-4940-bded-b1bd27dfd700",
+      "description": "Las finanzas son un Pilar fundamental en todo tipo de emprendimientos, pero no sirven de nada si no sabemos comunicar a nuestros inversionistas, socios o fuente de crowfounding nuestro modelo de negocio.  Consideramos esta, una herramienta fundamental para el inicio de todo emprendimiento.   El taller de Finanzas & Pitch  se llevará a cabo el 9 de Septiembre en el Auditorio de \"Los Tiempos\".  horario: 19:00 a 21:00 horas."
+    },
+    "hnu8fezAAeeMESoHpTK2": {
+      "bannerUrl": "https://firebasestorage.googleapis.com/v0/b/swcbba-women.appspot.com/o/logo-sw-color.svg?alt=media&token=769d8e51-969d-4940-bded-b1bd27dfd700",
+      "description": " El diseño de marca es mucho más que el crear un logotipo – imagotipo para su empresa o producto.  Es definir la comunicación de los valores y la identidad corporativa de su empresa.  Consideramos esta, una herramienta fundamental para el inicio de todo emprendimiento.   El taller de Diseño de marca se llevara a cabo el 6 de Septiembre en el Auditorio de \"Los Tiempos\".  horario: 19:00 a 21:00 horas.",
+      "link": "https://forms.gle/DXevg2FSMwRwWLGg7",
+      "deleteFlag": false,
+      "name": "Diseño de marca",
+      "logoUrl": "https://firebasestorage.googleapis.com/v0/b/swcbba-women.appspot.com/o/sww-illustration-white.svg?alt=media&token=e4fa2c10-852d-4894-848d-ad4e99e05d68",
+      "place": "Auditorio principal de \"Los tiempos\"",
+      "date": { "_seconds": 1567810800, "_nanoseconds": 0 },
+      "id": "hnu8fezAAeeMESoHpTK2"
+    },
+    "htgGFOm4SxuqeQNh8jkV": {
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScaMdHLfkasrce0-kVkQ_cnw7Wt0EqIDhhnGD9oM3lUCp9vlg/viewform",
+      "deleteFlag": false,
+      "name": "Bootcamp SW",
+      "logoUrl": "https://firebasestorage.googleapis.com/v0/b/swcbba-women.appspot.com/o/sww-illustration-white.svg?alt=media&token=e4fa2c10-852d-4894-848d-ad4e99e05d68",
+      "place": "Universidad Mayor de San Simón Cochabamba",
+      "date": { "_seconds": 1567773000, "_nanoseconds": 0 },
+      "id": "htgGFOm4SxuqeQNh8jkV",
+      "bannerUrl": "https://firebasestorage.googleapis.com/v0/b/swcbba-women.appspot.com/o/logo-sw-color.svg?alt=media&token=769d8e51-969d-4940-bded-b1bd27dfd700",
+      "description": "El bootcamp es un campo de entrenamiento rumbo al Techstars Startup Weekend Women Cochabamba. Este es un evento de 4 horas diseñados para proporcionar educación vivencial de alta calidad para emprendedores técnicos y amateurs en un formato compacto. Una replica del evento principal para poder tener una idea mas clara de lo que sera el Techstars Startup Weekend Women cochabamba."
+    },
+    "tMDi3UurZQp8XlWun6Qe": {
+      "bannerUrl": "https://firebasestorage.googleapis.com/v0/b/swcbba-women.appspot.com/o/logo-sw-color.svg?alt=media&token=769d8e51-969d-4940-bded-b1bd27dfd700",
+      "description": "Una noche de networking  donde aprenderás y podrás conocer a mujeres exitosas que mediante su historia de vida, generaras contactos pero principalmente una noche que te inspirará a a alcanzar tus sueños!! No te lo puedes perder!! Atrévete a mostrar tu poder!!!",
+      "link": "https://bit.ly/2kiJP5g",
+      "deleteFlag": false,
+      "name": "Women's TALK NIGHT",
+      "logoUrl": "https://firebasestorage.googleapis.com/v0/b/swcbba-women.appspot.com/o/sww-illustration-white.svg?alt=media&token=e4fa2c10-852d-4894-848d-ad4e99e05d68",
+      "place": "360 Workplace",
+      "date": { "_seconds": 1568327400, "_nanoseconds": 0 },
+      "id": "tMDi3UurZQp8XlWun6Qe",
+      "price": 20
+    }
+  }
+}

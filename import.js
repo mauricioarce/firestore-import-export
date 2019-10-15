@@ -1,7 +1,7 @@
 const fs = require('fs');
 const YAML = require('js-yaml');
 const admin = require("firebase-admin");
-const serviceAccount = require("./serviceAccountKey.json");
+const serviceAccount = require("./smartcities-swcbba-firebase-adminsdk-yfxto-546cd187e5.json");
 
 const fileName = process.argv[2];
 
@@ -22,7 +22,7 @@ if (geoArray) {
 // You should replace databaseURL with your own
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://ionic-firestore-dn.firebaseio.com"
+  databaseURL: "https://smartcities-swcbba.firebaseio.com"
 });
 
 const db = admin.firestore();

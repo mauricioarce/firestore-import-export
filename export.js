@@ -1,6 +1,6 @@
 const admin = require("firebase-admin");
 const fs = require('fs');
-const serviceAccount = require("./serviceAccountKey.json");
+const serviceAccount = require("./swcbba-women-firebase-adminsdk-pt88z-25a2d594ca.json");
 
 let collectionName = process.argv[2];
 let subCollection = process.argv[3];
@@ -8,7 +8,7 @@ let subCollection = process.argv[3];
 // You should replace databaseURL with your own
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://ionic-firestore-dn.firebaseio.com"
+  databaseURL: "https://swcbba-women.firebaseio.com"
 });
 
 let db = admin.firestore();

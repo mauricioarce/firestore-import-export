@@ -2,3 +2,7 @@ node_modules
 serviceAccountKey.json
 firestore-export.json
 package-lock.json
+smartcities-swcbba-firebase-adminsdk-yfxto-546cd187e5.json
+swcbba-women-firebase-adminsdk-pt88z-25a2d594ca.json
+.vscode/
+.DS_Store
