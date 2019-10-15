@@ -1,0 +1,58 @@
+{
+  "events": {
+    "2qELaymwxyUNUz02EOWP": {
+      "id": "2qELaymwxyUNUz02EOWP",
+      "descriptionEn": "The main objective of our workshops is to provide a practical approach of what was taught during the talk, also to prepare and provide self-confidence to the students, so they can continue on the different programs Jala Foundation has to offer. The best students are recommended to continue their preparation and studies at this institution.",
+      "descriptionSp": "El objetivo principal de nuestros talleres, es proporcionar un enfoque práctico a lo enseñado en la charla, así mismo preparar y dar seguridad a las estudiantes, para que continúen con los diferentes programas de Fundación Jala. Las mejores estudiantes son recomendadas para continuar sus estudios en dicha institución.",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/gp4tech.appspot.com/o/images%2Factivities%2Factivities-workshops.JPG?alt=media&token=f05c01a9-251e-43be-8047-50d96cd16fa1",
+      "order": 2,
+      "nameSp": "Talleres",
+      "nameEn": "Workshops"
+    },
+    "3Uv3kdeDGMI7wDZskG7F": {
+      "id": "3Uv3kdeDGMI7wDZskG7F",
+      "descriptionEn": "If we want to create change in our culture and the future of our country, then we need to work with the little ones, the ones that do not have the chance to access technology. We train elementary schools that are from the province (countryside) and do not have the economic capacity to access their own computers, providing them references and access to technology, giving them the chance to choose in the future.",
+      "descriptionSp": "Si queremos marcar un cambio en nuestra cultura y el futuro de nuestro país, entonces necesitamos trabajar con los más pequeños, aquellos que no cuentan con la posibilidad de acceder a la tecnología. Capacitamos a escuelas elementales que son de provincia y no cuentan con la capacidad económica de acceder a computadoras, proporcionándoles pautas y acceso a tecnología, y dándoles la oportunidad de elegir a la larga.",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/gp4tech.appspot.com/o/images%2Factivities%2Factivities-primary-schools.jpg?alt=media&token=63af61b4-1172-4b30-a5ec-a41252736bf1",
+      "order": 3,
+      "nameSp": "Capacitaciones a Escuelas Primarias",
+      "nameEn": "Elementary School Training"
+    },
+    "3sHapdn7xwn0vEclzALC": {
+      "nameSp": "Weekend Coding",
+      "nameEn": "Weekend Coding",
+      "id": "3sHapdn7xwn0vEclzALC",
+      "descriptionEn": "\"Weekend Coding\" is a free event aimed at senior school students and first years of college students that are interested in the Computer Science and Software Development areas. This event is about workshops and talks that have between 1.5 and 2.5 hours of theoretical and practical learning for an entire day, using didactic techniques and creative methods to captivate the interest of the students and also have dynamic and fun learning sessions. The teaching-learning areas go from software development basics, software quality assurance, robotic, UI/UX design, digital marketing among others.",
+      "descriptionSp": "Weekend Coding es un evento gratuito enfocado a estudiantes de últimos años de colegio y primeros semestres de universidad interesados en el área de tecnología e informática. Se trata de talleres y charlas que van de 1.5 a 2.5 horas de aprendizaje teórico-práctico  duante todo un día, utilizando métodos y estrategias didácticas creativas para captar el interés y hacer sesiones más divertidas y dinámicas. Las áreas de enseñanza-aprendizaje van desde el desarrollo de software, control de calidad, robótica, UI/UX hasta el marketing digital y otros.  El único requisito es tener muchas ganas de aprender más, los laboratorios y materiales lo ponemos nosotros.",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/gp4tech.appspot.com/o/images%2Factivities%2Factivities-weekend-coding.jpg?alt=media&token=98adfbd4-4bec-4e4d-81eb-b5518b53eb07",
+      "order": 5
+    },
+    "eEfFmNpZq7RaKPpA3bxy": {
+      "nameEn": "University Training",
+      "id": "eEfFmNpZq7RaKPpA3bxy",
+      "descriptionEn": "College students are also part of our core network to whom we have provided training and preparation in different areas. Based on the well-known phrase: \"The practice without theory is blind and the theory without practice is sterile\", is that the most important and redeemable of these training results in the transmission of experience from competent and above all, passionate about sharing their knowledge. The college students perform a business practice simulation during a complete cycle of Software development",
+      "descriptionSp": "Los estudiantes de universidad también forman parte de nuestra red troncal a quienes les brindamos capacitación y preparación en diferentes áreas. Tomando como base la muy conocida frase: \"La práctica sin teoría es ciega y la teoría sin práctica es estéril\", es que lo más imoportante y rescatable de dichas capacitaciones resulta en la transmisión de experiencia de personas competentes y sobre todo apasionadas en compartir sus conocimientos. Los universitarios realizan una simulación de práctica empresarial durante un ciclo completo de desarrollo de Software.  Entre las tecnologías, herramientas y contenidos que hacemos uso para llevar a cabo dichas capacitaciones están: Ingeniería de Requerimientos, Control de Calidad, Agile Project Management, Control de Versiones con Git y GitHub, Angular, .NET, Java, Firebase, MySQL, PostgreSQL, entre otros.",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/gp4tech.appspot.com/o/images%2Factivities%2Factivities-university.jpg?alt=media&token=d48cfc57-3028-433a-a7c3-da66b99ddae8",
+      "order": 4,
+      "nameSp": "Capacitaciones a Universidades"
+    },
+    "x6O5dv6OInNhW3MHsKkp": {
+      "descriptionSp": "Aún existen tabúes respecto a las carreras de tecnología, áreas en las que se ejerce una vez terminada la universidad, o las diferentes áreas de capacitación abiertas a las estudiantes. Con el fin de mostrar roles femeninos a seguir en el área de tecnología y proporcionar una pauta del gigante mundo del Software, dictamos charlas para estudiantes de últimos años de colegio. Mostrando un poco de áreas genéricas del campo del desarrollo del Software como ser: diseño, control de calidad, programación y robótica. ",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/gp4tech.appspot.com/o/images%2Factivities%2Factivities-talks.jpg?alt=media&token=bdd5e5a7-9248-4f42-9ff4-4b67e52561f5",
+      "order": 1,
+      "nameSp": "Charlas",
+      "nameEn": "Talks",
+      "id": "x6O5dv6OInNhW3MHsKkp",
+      "descriptionEn": "There is still bias regarding the technology career paths, areas in which new professionals will work when they graduate or the different open options female students have for training. In order to show feminine role models to follow in the area of ​​technology and provide a guideline of the gigantic world of Software, we give talks for students of the last years of school. Showing a few generic areas of the field of software development such as design, quality control, programming, and robotics."
+    },
+    "xqNJsoStmibI4QqOxgP6": {
+      "descriptionSp": "GP4Tech busca generar soluciones y hacer visible la participación activa de mujeres adultas en tecnología mediante la organización de eventos Hackathon que busquen solucionar algún problema de la sociedad. La primera versión del mismo se realizará el 9 de Febrero del 2019, en busca de soluciones para personas con discapacidad.  Estas soluciones podrán ser presentadas como prototipos dado que el público que propondrá ideas está en su mayoría compuesto de estudiantes de colegio de último año, lo cual dificulta generar un producto final en base a su poca experiencia en Software.",
+      "pic": "https://firebasestorage.googleapis.com/v0/b/gp4tech.appspot.com/o/images%2Factivities%2Factivities-hackaton.JPG?alt=media&token=4a8d0a12-1bf9-41fc-9f63-9aade99f74bc",
+      "order": 6,
+      "nameSp": "Hackathon",
+      "nameEn": "Hackathon",
+      "id": "xqNJsoStmibI4QqOxgP6",
+      "descriptionEn": "GP4Tech seeks to generate solutions and make visible the active participation of adult women in technology through the organization of Hackathon events that seek to solve problems of society. The first version was on February 9, 2019, that had as main focus the presentation of solutions for people with disabilities. The solutions presented can be prototypes, mock-ups or sketches since the participants proposing the ideas are mostly high school students, which makes it difficult to generate a final product based on their little experience in developing software and technology"
+    }
+  }
+}

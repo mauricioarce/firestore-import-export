@@ -1,0 +1,46 @@
+{
+  "activity-indicators": {
+    "4OIbkK01PR4tFaHnNf1H": {
+      "id": "4OIbkK01PR4tFaHnNf1H",
+      "labelSp": "Charlas/Talleres",
+      "count": "+46",
+      "labelEn": "Talks/Workshops",
+      "progressColor": "primary-color"
+    },
+    "Nq1qwodiPUwPZRv1q9Uw": {
+      "id": "Nq1qwodiPUwPZRv1q9Uw",
+      "labelSp": "Estudiantes Entrenados",
+      "count": "+940",
+      "labelEn": "Trained Students",
+      "progressColor": "primary-color"
+    },
+    "QtuXUHustr7wClfcp4M4": {
+      "labelSp": "Miembros",
+      "count": "76",
+      "labelEn": "Members",
+      "progressColor": "primary-color",
+      "id": "QtuXUHustr7wClfcp4M4"
+    },
+    "Z9hamFDHvlfQ7xTKjQR1": {
+      "id": "Z9hamFDHvlfQ7xTKjQR1",
+      "labelSp": "Horas de Entrenamiento",
+      "count": "+256",
+      "labelEn": "Hours of Training",
+      "progressColor": "secondary-color"
+    },
+    "umuGErja39oMBkbsCO3R": {
+      "labelSp": "Weekend Coding",
+      "count": "2",
+      "labelEn": "Weekend Coding",
+      "progressColor": "secondary-color",
+      "id": "umuGErja39oMBkbsCO3R"
+    },
+    "vlf9GKOjebri3jxmzXqV": {
+      "labelSp": "Hackaton",
+      "count": "1",
+      "labelEn": "Hackaton",
+      "progressColor": "secondary-color",
+      "id": "vlf9GKOjebri3jxmzXqV"
+    }
+  }
+}

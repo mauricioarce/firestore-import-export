@@ -2,3 +2,7 @@ node_modules
 serviceAccountKey.json
 firestore-export.json
 package-lock.json
+gp4tech-firebase-adminsdk-0qc2f-b747e352be.json
+gp4techpreview-firebase-adminsdk-ksb93-15a5098759.json
+.DS_Store
+.vscode/

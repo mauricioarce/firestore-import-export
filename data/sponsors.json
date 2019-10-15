@@ -1,0 +1,16 @@
+{
+  "sponsors": {
+    "7oiOhvRCgfzoTWFVpLYJ": {
+      "id": " 7oiOhvRCgfzoTWFVpLYJ",
+      "label": "Fundación Jala",
+      "link": "http://fundacion-jala.org",
+      "storagePath": "images%2Fsponsors%2Ffundacion-jala-logo.png?alt=media&token=960c3ff7-f2e5-46a8-b7e1-c91595dc44ad"
+    },
+    "PYpWXUTu0spyLvkWkFXh": {
+      "storagePath": "images%2Fsponsors%2Fjalasoft-logo.png?alt=media&token=4ea70b54-ce88-40f7-9918-10951cabdaf4",
+      "id": " PYpWXUTu0spyLvkWkFXh",
+      "label": "Jalasoft",
+      "link": "http://www.jalasoft.com/"
+    }
+  }
+}

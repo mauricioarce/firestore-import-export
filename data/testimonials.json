@@ -1,0 +1,31 @@
+{
+  "testimonials": {
+    "3pEQZEgFyUPEJqnsCr2w": {
+      "classSp": "2do Semestre, Ingeniera Informática",
+      "name": "Adriana Velarde",
+      "classEn": "First Year of Computer Engineering career",
+      "id": " 3pEQZEgFyUPEJqnsCr2w",
+      "descriptionEn": "GP4Tech helped me to choose the career I am coursing right now, the workshops they have are very practical and they open your mind about what technology is about, they teach you to code from the basics and that helps you choose what you what for your future. Personally speaking, it has helped me since my first college semester. I was able to participate in most of the activities since the community was founded. I participated in the first Weekend Coding event in 2017 and I also remember being part of the Video Games development workshop, these were very interesting experiences and since then I was hooked with coding.",
+      "descriptionSp": "GP4Tech me ayudó a elegir la carrera que estoy siguiendo, los talleres que tienen son muy prácticos y te abren la mente a lo que es la tecnología, te enseñan a programar desde lo más básico. Y eso te ayuda a elegir qué es lo que quieres para tu futuro y la verdad a mí me ha ayudado en el primer semestre de la universidad. He podido participar en gran parte de las actividades desde que la comunidad se fundó. Asistí al primer Weekend Coding en 2017, y recuerdo haber estado en el taller de Programación de Videojuegos, para mí fue muy interesante y muy bonito, y quedé enganchada con la programación.",
+      "storagePath": "images%2Ftestimonials%2Fadriana.jpg?alt=media&token=0ae469b3-3a92-4c59-9482-0162b7249ea5"
+    },
+    "rXGr6CRMd7FxX2Wm90g0": {
+      "classEn": "First Year of Systems Engineering career",
+      "id": "rXGr6CRMd7FxX2Wm90g0",
+      "descriptionEn": "GP4Tech helped me discover my true passion, which is coding. Thanks to the community is that I could decide for a career that I really like and I am passionate about. Thanks to this community I was able to know the basic elements to be able to program, and I also knew what teamwork is, when I first participated in a hackathon. In a few words, I am very grateful to the community for opening the doors to me, for letting me know the world of programming and, above all, for guiding me when choosing a career.",
+      "descriptionSp": "GP4Tech me ayudó a descubrir mi verdadera pasión, que es programar. Gracias a la comunidad es que pude decidirme por una carrera que realmente me gusta y me apasiona. Gracias a esta comunidad pude conocer los elementos básicos para poder programar, y además conocí lo que es el trabajo en equipo, cuando participé por primera vez de un hackathon. En pocas palabras, estoy muy agradecido con la comunidad por abrirme las puertas, por hacerme conocer el mundo de la programación y, sobre todo, por orientarme al momento de elegir una carrera profesional.",
+      "storagePath": "images%2Ftestimonials%2Fmarco.jpg?alt=media&token=216d01f0-225e-4fee-b610-9701e720e499",
+      "classSp": "2do Semestre, Ingeniería de Sistemas",
+      "name": "Marco Veizaga"
+    },
+    "skMhTswAdMv57s8hTyhz": {
+      "descriptionSp": "GP4Tech me ayudó mucho a aprender diversas tecnologías, y áreas como la programación web, móvil, orientada a objetos. Me encanta como es que, incluso cuando algún taller ya terminó, los profesores continúan colaborando. Algo increíble y que puedo destacar mucho es que gracias a la comunidad conocí a Griss, con quien hice mi primera app, es una gran guía para mí y me alegra mucho haberla conocido, como también me alegra que GP4Tech se esfuerce tanto en enseñar y compartir conocimiento, en especial con chicas como yo. Después de las actividades, estoy inclinada a estudiar Ingeniería Informática.",
+      "storagePath": "images%2Ftestimonials%2Fsofia.jpg?alt=media&token=50ca8823-cb72-44ea-b240-b75fad685b35",
+      "classSp": "6to de Secundaria, Gerónimo de Osorio",
+      "name": "Sofia Toro",
+      "classEn": "Last year of high school, Gerónimo de Osorio",
+      "id": "skMhTswAdMv57s8hTyhz",
+      "descriptionEn": "GP4Tech helped me learn different technologies and areas of coding as web development, mobile development, object-oriented programming. I really like how even when a workshop is complete, the trainers are still helping. Something incredible that I can highlight is that thanks to the community I met Griss, with whom I made my first app, she is a great trainer and I am really happy to have met her, as I am also happy that GP4Tech puts so much effort in teaching and sharing their knowledge, specially girls like me. After their activities, I am interested in studying Computer Science."
+    }
+  }
+}

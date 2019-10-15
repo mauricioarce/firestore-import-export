@@ -1,6 +1,6 @@
 const admin = require("firebase-admin");
 const fs = require('fs');
-const serviceAccount = require("./serviceAccountKey.json");
+const serviceAccount = require("./gp4tech-firebase-adminsdk-0qc2f-b747e352be.json");
 
 let collectionName = process.argv[2];
 let subCollection = process.argv[3];
@@ -8,7 +8,7 @@ let subCollection = process.argv[3];
 // You should replace databaseURL with your own
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://ionic-firestore-dn.firebaseio.com"
+  databaseURL: "https://gp4tech.firebaseio.com"
 });
 
 let db = admin.firestore();

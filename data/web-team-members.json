@@ -1,0 +1,132 @@
+{
+  "web-team-members": {
+    "1ddxnydbbCYE6g3Zd9Hn": {
+      "role": "dev",
+      "github": "https://github.com/lizzymendivil",
+      "bioSp": "Ingeniera de sistemas y trabaja como desarrolladora de software en Jalasoft. Tiene un diplomado en Educación Superior basado en Competencias, es miembro activa en la comunidad Angular Bolivia y lider en GP4Tech. Le apasiona aprender lo último en base de datos, tecnologías web y móviles y le gusta compartir su conocimiento a través de su blog y algunos eventos de tecnología.",
+      "website": "http://lizzymendivil.com/",
+      "picture": "https://www.gravatar.com/avatar/5ae5ee8f12ec35ac3b070910e026ab6d?s=200&d=mp",
+      "bioEn": "She is systems engineer and works as a software developer at Jalasoft. Diploma in competency-based Higher Education for Science and Technology. Active member on Angular Bolivia community and lead in GP4Tech. Passionate about learning the latest in databases, web and mobile technologies, and of course, Angular lover. She likes sharing her knowledge through her blog and some technology events.",
+      "twitter": "https://twitter.com/lizzymendivil",
+      "name": "Lizzy Mendivil Bejarano",
+      "linkedin": "https://www.linkedin.com/in/lizzymendivil/",
+      "id": "1ddxnydbbCYE6g3Zd9Hn"
+    },
+    "4DbrvOo8HiVKrzRqTHUT": {
+      "role": "dev",
+      "github": "https://github.com/dmeneses",
+      "bioSp": "Daniela trabaja como developer en Jalasoft por casi 4 años, ella ha trabajado con diferentes tecnologías / lenguajes como: Java, Javascript, Smalltalk, Mongo y Scala. A ella le gusta mucho aprender cosas nuevas y compartir el trabajo en equipo por las diferentes opiniones o puntos de vista. En el ultimo año encontró el gusto a la investigación buscando crear herramientas que ayuden a las personas a hacer su trabajo mas fácil, es así que fue invitada a dar una charla en Salta, Argentina para hablar sobre el articulo que escribió:  “Deviation Testing: A Test Case Generation Technique for GraphQL APIs”.  También trabaja en Fundación Jala como trainer para los programas de Desarrollo, Investigation y Robotica desde hace 3 años. En GP4Tech, participa como trainer en  los eventos de Weekend Coding, dando talleres de HTML / CSS y ayudando a crear el sitio oficial de la comunidad.",
+      "website": "",
+      "picture": "https://www.gravatar.com/avatar/305744c8c369b90a50d96263bec89463?s=200&d=mp",
+      "bioEn": "Daniela is a staff developer at Jalasoft for about 4+ years, she have been working with many different technologies like Java, Javascript, Smalltalk , Mongo and Scala. She likes to learn new things and work in a team to get different opinions and points of view.  In the past year found the liking on doing research to create new tools to help people and was invited as a speaker for the SmallTalks event in Salta, Argentina; to speak about the paper she wrote: “Deviation Testing: A Test Case Generation Technique for GraphQL APIs”.  Also she worked at the Jala Foundation as a trainer for the Web Development Program, Research Program and Robotics Program for about three years now. In GP4tech, she participated as trainer the Weekend Coding events, giving workshops for HTML / CSS and helping to create the official site for the community.",
+      "twitter": "https://twitter.com/DAN_11290",
+      "name": "Daniela Meneses",
+      "linkedin": "https://www.linkedin.com/in/daniela-meneses-22760486/?locale=en_US",
+      "id": "4DbrvOo8HiVKrzRqTHUT"
+    },
+    "4zflk1ivseyqEtkifOg1": {
+      "id": "4zflk1ivseyqEtkifOg1",
+      "role": "dev",
+      "github": "https://github.com/mauricioarce",
+      "bioSp": "Mauricio es un apasionado del desarrollo web y de participar en comunidades. Graduado de la Universidad Mayor de San Simón de la carrera de Ingeniería de Sistemas y con un diplomado en Gestión de Proyectos de Tecnologías de Información, actualmente trabaja como desarrollador de software en Jalasoft. Es parte del equipo organizador del Startup Weekend Cochabamba por más de 3 años y Tech Lead del mismo en la última versión y en la que se viene organizando este año, estando a la cabeza del desarrollo de las aplicaciones web usadas para la organización de este evento. Miembro del Core Team de la comunidad Angular Bolivia, speaker en la comunidad y parte del Web Team del equipo organizador del NG Bolivia (la conferencia de Angular más grande en Bolivia). Miembro activo de la comunidad GP4Tech, donde aparte de ser parte del equipo de desarrollo, ayuda a chicas y chicos de colegio con temas relacionados a desarrollo a través de charlas y talleres.",
+      "website": "",
+      "picture": "https://www.gravatar.com/avatar/13a9469e8d21db5e9f0fb824aa64d689?s=200&d=mp",
+      "bioEn": "Mauricio is passionate about web development and participating in communities. Graduated from the Universidad Mayor de San Simón in the Systems Engineering career and with a diploma in Information Technology Project Management, he currently works as a software developer at Jalasoft. He is part of the Startup Weekend Cochabamba organizing team for more than 3 years and Tech Lead of this community in the latest version and in the current one, being at the head of the development of web applications used for the organization of this event . Member of the Core Team of the Angular Bolivia community, speaker in this community and part of the Web Team of the NG Bolivia organizing team (the largest Angular conference in Bolivia). Active member of the GP4Tech community, where apart from being part of the development team, he helps girls and boys at school with topics related to development through talks and workshops.",
+      "twitter": "https://twitter.com/Mauri075",
+      "name": "Mauricio Arce Torrez",
+      "linkedin": "https://www.linkedin.com/in/mauricio-arce-torrez/"
+    },
+    "5o116cNb8AJ54n2Ivf36": {
+      "id": "5o116cNb8AJ54n2Ivf36",
+      "role": "po",
+      "github": "https://github.com/nadimdiazramzi",
+      "bioSp": "Lider de desarrollo de Software en Jalasoft, Ingeniera de Sistemas egresada con diplomado en Control de Calidad de Software, fundadora de la GP4Tech (antiguamente llamada Girl Power), una comunidad enfocada a empoderar a mujeres en el campo tecnológico. Profesora de programación en el programa RAD Women, enseñando código a mujeres de diferentes partes del mundo. Dió charlas relacionadas con Salesforce, desarrollo de Software y mujeres en tecnología en conferencias como:\nPunta Dreamin' (Punta del Este – Uruguay), Forcelandia (Portland – Oregon, US), DreamOlé (Barcelona – Spain) and Florida Dreamin' (Orlando – Florida, US).",
+      "website": "",
+      "picture": "https://www.gravatar.com/avatar/ab0b38bd5f9e36bfbf539737654cbb7d?s=200&d=mp",
+      "bioEn": "Nadim is Staff and Lead Developer at Jalasoft, with a degree course on \"Software Testing\". GP4Tech founder, an internal community that empowers women in technology. She was a volunteer on RAD Woman community, teaching Apex code to many women across the world. Nadim was a speaker on different events about the gender gap in technology and technology in general like Punta Dreamin' (Punta del Este – Uruguay), Forcelandia (Portland – Oregon, US), DreamOlé (Barcelona – Spain) and Florida Dreamin' (Orlando – Florida, US). Also, she has been training young students on Salesforce – Apex through Jala Foundation and GP4Tech in 2 opportunities.",
+      "twitter": "https://www.twitter.com/@NadimDRZ",
+      "name": "Nadim Diaz Ramzi",
+      "linkedin": "https://www.linkedin.com/in/nadim-diaz-ramzi/"
+    },
+    "8Y9XADZ5B54jHQ5fph4g": {
+      "bioSp": "Giomara es y siempre fue una persona apasionada por el desarrollo tecnológico y ahí yace la razón de su orientación como profesional. Ella es Ingeniera electrónica, desarrolladora de software e investigadora en el área de robótica y láseres. Representó a Bolivia en el área de optoelectrónica y física en dos ocasiones (California 2018 – Lima 2018) y con el fin de promover la tecnología y la generación de impacto en el mundo, asumió roles de liderazgo y voluntariado en distintas organizaciones internacionales como ser AIESEC, IEEE, SPIE, OSA y WIE entre otros. A parte de su trabajo, hoy en día ella es parte del equipo web de GP4Tech",
+      "website": "",
+      "picture": "https://www.gravatar.com/avatar/ce2b7e6c84c7675e2202304453825d0b?s=200&d=mp",
+      "bioEn": "Giomara is and always has been a passionate person for the technological development and there lies the reason for her orientation as a professional. She is an electronic engineer, software developer and researcher in robotics and lasers. Represented Bolivia in the area of physics and optoelectronics on two occasions (California 2018 – Lima 2018) and in order to promote technology and generate impact in the world, she assumed leadership and volunteer roles in international organizations such as AIESEC, IEEE, SPIE, OSA and WIE among others. Apart from her work, nowadays she is part of the web team in GP4Tech.",
+      "twitter": "",
+      "name": "Giomara Eillen Salinas Velez",
+      "linkedin": "https://www.linkedin.com/in/giomara-salinas/",
+      "id": "8Y9XADZ5B54jHQ5fph4g",
+      "role": "dev",
+      "github": "https://github.com/GigiEillen"
+    },
+    "EByfeL2GV5b92dJOLSTR": {
+      "role": "dev",
+      "github": "https://github.com/mariagarciaflores",
+      "bioSp": "Griss es ingeniera de sistemas y actualmente trabaja como desarrolladora de software en Jalasoft. Es una persona apasionada por enseñar lo maravilloso que es programar, actualmente es trainer de un taller sobre Javascript en fundación Jala. Es mentora en TECHNOVATION, pertenece al equipo web de la comunidad GP4Tech, pertenece al core team de la comunidad Startup Weekend y es coorganizadora de NG Bolivia junto a la comunidad Angular Bolivia.",
+      "website": "",
+      "picture": "https://www.gravatar.com/avatar/b016538105effb7b2085455b47517ea1?s=200&d=mp",
+      "bioEn": "Griss is a systems engineer and currently works as a software developer at Jalasoft. She is a person passionate about teaching how wonderful it is to program, she is currently a trainer of a workshop on Javascript in Jala Foundation. She is a mentor at TECHNOVATION, belongs to the GP4Tech community web team, belongs to the Startup Weekend community core team and she is co-organizer of NG Bolivia with the Angular Bolivia community.",
+      "twitter": "https://twitter.com/grissgarcia074?s=08",
+      "name": "Griss Garcia",
+      "linkedin": "https://www.linkedin.com/in/maria-griselda-garcia-flores-b4518b184/",
+      "id": "EByfeL2GV5b92dJOLSTR"
+    },
+    "bj642k5dkBotoSrGeDhP": {
+      "name": "Salome Quispe",
+      "linkedin": "",
+      "id": "bj642k5dkBotoSrGeDhP",
+      "role": "qa",
+      "github": "https://github.com/salomeqg/",
+      "bioSp": "Salome trabaja como Ingeniero de control de calidad con más de 10 años de experiencia en web testing. Le encanta encontrar inconsistencias/errores en aplicaciones web, entregar una aplicación con un alto nivel de calidad es su objetivo principal, es muy responsable y detallista en este sentido. Le gusta investigar sobre las nuevas tecnologías de testeo para ir actualizándose en su área de trabajo. Le interesa mucho la seguridad informática y tomó algunos cursos sobre la misma. Le encanta enseñar y compartir sus conocimientos a niños y jóvenes. Estudios: Un diplomado en Educación Superior y es un scrum master certificado. Le gusta trabajar en equipo, empoderar a las personas y mostrar que las mujeres a pesar de los prejuicios de nuestra sociedad y cultura pueden ser grandes y exitosas, y por ello se unió a la comunidad de GP4Tech de la cual es miembro activo desde hace 3 años, para ayudar a que más chicas estudien carreras tecnológicas y con su aporte impactar en nuestro país.",
+      "website": "",
+      "picture": "https://www.gravatar.com/avatar/18d68fdb89999146632524ba76ffc37e?s=200&d=mp",
+      "bioEn": "Salome is working as Quality Engineer in Jalasoft for more than 10 years in web testing. She loves to find inconsistencies and errors in web sites, in order to have and web applications with High Quality level, that is her first Goal of work. She is a very responsible and detailed person on this way. She loves looking for new testing technologies to update herself in her work area. She is very interested in computer security and she took some courses about it. She loves teaching and sharing her knowledge to children and young people about some technologies. Her studies: She has a diploma in Higher Education and she is a certified scrum master. She likes team work, empower people and show that women, despite the prejudices of our society and culture, can be great and successful people; so for that reason, she joined the GP4Tech community. She has been an active member since 3 years ago. She enjoys to help more girls to increase their interest on technology careers and with their contribution impact our country.",
+      "twitter": ""
+    },
+    "gnGACD0BXQc60nI6ggrf": {
+      "picture": "https://www.gravatar.com/avatar/739665a120097b137dc2aa3c511baa7e?s=200&d=mp",
+      "bioEn": "Currently she works in the area of Quality Assurance in Jalasoft. She loves working as a tester, learning about new and innovative technologies and also spending time with his family and pets. She is a person who likes challenges, besides being thoughtful, persistent and self-taught. Consider that people never stop learning!",
+      "name": "Olimpia Colque Flores",
+      "id": "gnGACD0BXQc60nI6ggrf",
+      "role": "qa",
+      "bioSp": "Actualmente trabaja en el area de Quality Assurance en Jalasoft. Le encanta trabajar como tester, conocer tecnologías nuevas e innovadoras y también pasar tiempo con su familia y mascotas. Ella es una persona a la que le gustan los retos, ademas de ser detallista, persistente y autodidacta. Considera que las personas ¡nunca dejamos de aprender!"
+    },
+    "kmqXsOxAUliqzO5JElCt": {
+      "linkedin": "https://www.linkedin.com/in/jorge-eduardo-soria-cordova-922915b7/",
+      "id": "kmqXsOxAUliqzO5JElCt",
+      "role": "qa",
+      "github": "",
+      "bioSp": "Jorge es BBA y actualmente es ingeniero de Garantía de Calidad en Jalasoft. Siempre ha sido un profesional orientado a los detalles, por lo tanto, tiene más de 2 años de experiencia en servicio al cliente de comercio electrónico y casi 2 años como ingeniero de control de calidad. Siempre está buscando nuevas formas de ayudar a la comunidad. Disfruta de nuevos desafíos y su objetivo es convertirse en un administrador certificado de Salesforce dentro del próximo año.",
+      "website": "",
+      "picture": "https://www.gravatar.com/avatar/0ff649b071c48e31a51548331b6e7a56?s=200&d=mp",
+      "bioEn": "Jorge is a BBA and is currently a Quality Assurance engineer at Jalasoft. He's always been a detail-driven professional, hence, he has over 2 years experience in E-commerce Customer Service and almost 2 years as Quality Assurance engineer. He’s always looking for new ways to help the community. He enjoys new challenges and he aims to become a Salesforce Certified Admin within the next year.",
+      "twitter": "",
+      "name": "Jorge Soria"
+    },
+    "kpsygjGnnYzWawgwtssD": {
+      "linkedin": "",
+      "id": "kpsygjGnnYzWawgwtssD",
+      "role": "po",
+      "github": "",
+      "bioSp": "Pamela es ingeniera de sistemas; trabaja a tiempo completo en Jalasoft como desarrolladora de software. Codifica en C# mayormente y le encanta aprender y descubrir cosas nuevas. Pamela es parte y una de las lideres de la comunidad GP4Tech. Su pasión es inspirar, enseñar y ayudar a mas niñas a ser parte del maravilloso mundo de la tecnología. Gran fan del UCM, los gatos, Scrum y crear código.",
+      "website": "",
+      "picture": "https://www.gravatar.com/avatar/e390d06bd2ae5788815ff40ffaf7dab1?s=200&d=mp",
+      "bioEn": "Pamela is a software engineer who works as a full-time software developer at Jalasoft. She codes in C# mostly, and loves to learn and discover new things. Pamela is part and one of the leaders of the GP4Tech community. Her passion is to inspire, teach and help girls to be part of the awesome world of technology. Huge fan of the MCU, cats, Scrum and coding.",
+      "twitter": "",
+      "name": "Pamela Zeballos Zubieta"
+    },
+    "zJhiflqokvx0fN2wVw8u": {
+      "website": "",
+      "picture": "https://www.gravatar.com/avatar/f251882fd8a0317eba04618f91e4d903?s=200&d=mp",
+      "bioEn": "She is System Engineer graduates from Mayor San Simon university. Currently working at Jalasoft as a software developer. She was a scholarship holder at “Fundación Jala” as part of Softure Program, obtaining the Jalasoft Certified Software Development Professional. With  great enthusiasm for sharing knowledge and learning much more. Among her passions are dancing and traveling. Actively participate in communities as Organizer of GDG Cochabamba, WTM (Women Techmakers) Ambassador Cochabamba and lead in GP4Tech (Girl Power for technology).",
+      "twitter": "@VaniCatorceno",
+      "name": "Vania M. Catorceno Carballo",
+      "linkedin": "https://www.linkedin.com/in/vania-marisela-catorceno-carballo-79078a10a",
+      "id": "zJhiflqokvx0fN2wVw8u",
+      "role": "po",
+      "github": "https://github.com/VaniMar",
+      "bioSp": "Vania es Ingeniera de Sistemas graduada de la Univ. San Simon. Actualmente trabaja en Jalasoft como desarrolladora de software. Así también, fue becaria en Fundación jala como parte del programa de Softure, obteniendo el Jalasoft Certified Software Development Professional. Con mucho entusiasmo por compartir conocimiento y aprender mucho más. Entre sus pasiones están viajar y bailar. Participa activamente en comunidades como Organizer de GDG Cochabamba, WTM (Women Techmakers) Ambassador Cochabamba y Lead en GP4Tech (Girl Power for technology)."
+    }
+  }
+}

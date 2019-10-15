@@ -1,0 +1,74 @@
+{
+  "donate": {
+    "NnuVfuzfE3LRxpEcMs2W": {
+      "accountNumber": "809840116",
+      "id": "NnuVfuzfE3LRxpEcMs2W",
+      "currency": "dollar",
+      "from": "usa",
+      "bank": "Banco Do Brasil ***",
+      "swiftCode": "BRASUS33",
+      "aba": "026003557",
+      "city": "New York - USA"
+    },
+    "OOPrbTdgNnBssVOtlQgo": {
+      "accountNumber": "04458668",
+      "id": "OOPrbTdgNnBssVOtlQgo",
+      "currency": "dollar",
+      "from": "usa",
+      "bank": "Deutsche Bank Trust Company Americas",
+      "swiftCode": "BKTRUS33XXX",
+      "aba": "021001033 - 026014795",
+      "city": "New York - USA"
+    },
+    "POBXcgNOJeVUmWWqX9aN": {
+      "from": "usa",
+      "bank": "Bank of America",
+      "swiftCode": "BOFAUS3N",
+      "aba": "026009593",
+      "city": "New York - USA",
+      "accountNumber": "6550429365",
+      "id": "POBXcgNOJeVUmWWqX9aN",
+      "currency": "dollar"
+    },
+    "aDJIPLrbRLeLEjkm9cqo": {
+      "swiftCode": "DEUTDEFF",
+      "aba": "",
+      "city": "Frankfurt - Germany",
+      "accountNumber": "100 9507112 0000",
+      "id": "aDJIPLrbRLeLEjkm9cqo",
+      "currency": "euros",
+      "from": "any",
+      "bank": "Deutsche Bank AG"
+    },
+    "bxqGKbBqGxzMEVn5qgw8": {
+      "city": "Frankfurt - Germany",
+      "accountNumber": "400871954400 USD",
+      "id": "bxqGKbBqGxzMEVn5qgw8",
+      "currency": "dollar",
+      "from": "germany",
+      "bank": "Commerzbank AG",
+      "swiftCode": "COBADEFFXXX",
+      "aba": ""
+    },
+    "l9CrXviTlZT0GDifIiV9": {
+      "aba": "",
+      "city": "Frankfurt - Germany",
+      "accountNumber": "400871954400",
+      "id": "l9CrXviTlZT0GDifIiV9",
+      "currency": "euros",
+      "from": "any",
+      "bank": "Commerzbank AG",
+      "swiftCode": "COBADEFF"
+    },
+    "m3PF0uZvwM7NtbKg1rrI": {
+      "aba": "",
+      "city": "Madrid - Spain",
+      "accountNumber": "182006170080100000",
+      "id": "m3PF0uZvwM7NtbKg1rrI",
+      "currency": "euros",
+      "from": "any",
+      "bank": "Banco Bilbao Vizcaya Argentaria (BBVA)",
+      "swiftCode": "BBVAESMM"
+    }
+  }
+}
